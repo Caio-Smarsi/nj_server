@@ -61,6 +61,11 @@ uvicorn ny_client:app --reload --port 8001
 
 6. Acesse a interface visual no seu navegador através de: http://localhost:8001
 
+7. Vídeo Demonstração:   
+https://github.com/user-attachments/assets/4e07afec-9d03-4b53-bf81-5b7a91c97ad9
+
+
+
 
 
 
