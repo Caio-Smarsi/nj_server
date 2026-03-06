@@ -35,9 +35,8 @@ Durante o desenvolvimento, pude colocar em prática conceitos fundamentais de de
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/SEU-USUARIO/seu-repositorio.git](https://github.com/SEU-USUARIO/seu-repositorio.git)
-cd seu-repositorio
-```
+git clone [https://github.com/Caio-Smarsi/nj_server.git](https://github.com/Caio-Smarsi/nj_server.git)
+cd nj_server
 
 2. Crie e ative um ambiente virtual:
 ```bash
@@ -61,6 +60,7 @@ uvicorn ny_client:app --reload --port 8001
 ```
 
 6. Acesse a interface visual no seu navegador através de: http://localhost:8001
+
 
 
 
